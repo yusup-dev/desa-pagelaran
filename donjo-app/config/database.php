@@ -113,10 +113,10 @@ $active_group = 'default';
 $query_builder = true;
 
 // Pengaturan basisdata standar
-$db['default']['hostname']     = 'localhost';
-$db['default']['username']     = 'root';
-$db['default']['password']     = '';
-$db['default']['database']     = 'opensid';
+$db['default']['hostname']     = 'bspqaapizkdve948ig2m-mysql.services.clever-cloud.com';
+$db['default']['username']     = 'u74m2ymsch3ttqkw';
+$db['default']['password']     = '85CnR4ETZoLNWZokE3PO';
+$db['default']['database']     = 'bspqaapizkdve948ig2m';
 $db['default']['port']         = 3306;
 $db['default']['stricton']     = true;
 $db['default']['dbdriver']     = 'mysqli';
